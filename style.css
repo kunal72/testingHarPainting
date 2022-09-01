@@ -1,0 +1,387 @@
+body{
+    overflow-x: hidden; 
+    
+}
+.embedsocial-forms-iframe{
+    overflow-x: hidden;
+}
+.navbar{
+    
+    overflow-x: hidden;
+}
+
+#link{
+    color: black;
+    font-weight: 600;
+}
+
+#link:hover{
+    color: #f98e4b;
+}
+
+.highlight-text{
+    color: #f98e4b;
+}
+.header-text{
+    font-weight: 700;
+}
+.header2-text{
+    font-weight: 400;
+    font-size: 170%;
+}
+.btn-explore{
+    color: white;
+    background-color: #f98e4b;
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+
+.btn-explores{
+    color: white;
+    background-color: #f98e4b;
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+
+.header-img{
+    width: 93%;
+}
+
+.About-us{
+    background-color:#fbf6f3 ;
+}
+
+
+.aboutheader2-text{
+    font-weight: 300;
+    font-size: 140%;
+}
+
+.club-header3-text{
+    font-weight: 300;
+    font-size: 120%;
+}
+
+
+
+
+
+
+  .swiper-slide{
+      width: 100%;
+  }
+
+  .swiper-slide img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+
+  .swiper-slide:nth-child(2n) {
+    width: 40%;
+  }
+
+  .swiper-slide:nth-child(3n) {
+    width: 20%;
+  }
+
+  .HarPaintingStudio{
+      background-color: #fbf6f3;
+  }
+
+.testimonial{
+    background-color: #fbf6f3;
+}
+
+.aboutheader2-text-harpaintingstudio{
+    font-weight: 400;
+    font-size: 110;
+}
+
+.card{
+    border: none;
+}
+
+
+
+.whatsapp-btn{
+    font-size: 120%;
+    background-color: #25D366;
+}
+
+.discord-btn{
+    font-size: 120%;
+    background-color: #5865F2;
+}
+
+.whatsapp-btn:hover,.discord-btn:hover{
+    color: white;
+}
+
+
+
+  .fb:hover{
+    color: #3B5998
+  }
+  
+  .WA:hover{
+      color: #25D366;
+  }
+
+  .GM:hover{
+      color: #d34836;
+  }
+  .Ins:hover{
+      color: #8a3ab9;
+  }
+  .LI:hover{
+      color: #3B5998;
+  }
+   
+  .DC:hover{
+      color:#5865F2;
+  }
+
+.YU:hover{
+    color: #d34836;
+}
+
+.headerVideo{
+    width: 90%;
+}
+
+@media (min-width: 320px) and (max-width: 700px){
+
+    .about-headers{
+        font-size: 196%;
+    }
+
+    
+     
+    .whatsapp-btn{
+        font-size: 100%;
+        font-weight: 500;
+    }
+    .discord-btn{
+        font-size: 112%;
+    }
+    .btn-explores{
+        font-size: 140%;
+    }
+}
+
+
+
+
+
+
+/* team css */
+
+.team-image{
+    width: 60%;
+}
+
+.teamhover{
+    text-decoration: none;
+    color: black;
+}
+
+.project-links{
+    color: #f98e4b;
+}
+
+.HarPaintingteam{
+    background-color: #fbf6f3;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+body{
+    overflow-x: hidden; 
+    
+}
+.navbar{
+    
+    overflow-x: hidden;
+}
+
+
+#link{
+    color: black;
+    font-weight: 600;
+}
+
+#link:hover{
+    color: #f98e4b;
+}
+
+.highlight-text{
+    color: #f98e4b;
+}
+
+
+
+.painting-head{
+    font-weight: 700;
+    text-align: left;
+}
+
+.header2-text{
+    font-weight: 400;
+    font-size: 97%;
+    text-align: left;
+}
+
+.headvideo{
+    border-radius: 5%;
+}
+
+/* .btn-explore{
+    color: white;
+    background-color: #f98e4b;
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+} */
+
+.header-text{
+    font-weight: 700;
+}
+
+/* .highlight-text{
+    color: #f98e4b;
+} */
+
+.aboutheader2-text{
+    font-weight: 300;
+    font-size: 140%;
+    text-align: center;
+}
+
+.club-header3-text{
+    font-weight: 300;
+    font-size: 120%;
+}
+
+.About-us{
+    background-color:#fbf6f3 ;
+}
+
+.learn{
+    background-color: white;
+    border-radius: 5%;
+
+}
+
+
+.card{
+    border: none;
+}
+
+
+
+
+
+
+  .fb:hover{
+    color: #3B5998
+  }
+  
+  .WA:hover{
+      color: #25D366;
+  }
+
+  .GM:hover{
+      color: #d34836;
+  }
+  .Ins:hover{
+      color: #8a3ab9;
+  }
+  .LI:hover{
+      color: #3B5998;
+  }
+   
+  .DC:hover{
+      color:#5865F2;
+  }
+
+.YU:hover{
+    color: #d34836;
+}
+
+
+.testimonial{
+    background-color: #fbf6f3;
+}
+
+@media (min-width: 320px) and (max-width: 700px){
+
+    .painting-head{
+        text-align: center;
+    }
+    .btn-explore{
+        text-align: center;
+    }
+    .explore-btn{
+        text-align: center;
+    }
+    
+    
+}
+
+.kunalimg{
+    width: 70%;
+}
+
+.headvideos{
+    width: 100%;
+    height: 100%;
+}
+
+
+@media (min-width: 320px) and (max-width: 700px){
+
+    .headvideos{
+        width: 80%; height: 80%;
+    }
+
+}
+
+
+@media (min-width: 700px) and (max-width: 1200px){
+
+    .headvideos{
+        width: 80%; height: 80%;
+    }
+
+}
