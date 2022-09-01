@@ -369,7 +369,7 @@ body{
 }
 
 
-@media (min-width: 320px) and (max-width: 700px){
+/* @media (min-width: 320px) and (max-width: 700px){
 
     .headvideos{
         width: 80%; height: 80%;
@@ -384,4 +384,4 @@ body{
         width: 80%; height: 80%;
     }
 
-}
+} */
